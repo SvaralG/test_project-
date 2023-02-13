@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "project for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SvaralG/test_project-.git"
+  },
+  "keywords": [
+    "test",
+    "js",
+    "javascript"
+  ],
+  "author": "svaral <svaral.g@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SvaralG/test_project-/issues"
+  },
+  "homepage": "https://github.com/SvaralG/test_project-#readme",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
