@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1676327930199" clover="3.2.0">
-  <project timestamp="1676327930199" name="All files">
+<coverage generated="1676627467582" clover="3.2.0">
+  <project timestamp="1676627467582" name="All files">
     <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="8" coveredelements="8" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
     <file name="calculate.js" path="C:\Users\pulat\Desktop\test_project-\calculate.js">
       <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>

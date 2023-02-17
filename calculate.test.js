@@ -35,6 +35,7 @@ describe ("function of calculateBonus", ()=>{
     test ("object assignment",() =>{
         const data = {one: 20}; 
         data["two"]=5;
+        
         expect(data).toEqual({one: 20, two: 5});
    
 });
